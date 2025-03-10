@@ -5,7 +5,6 @@ Var
    preco1,preco2:real
    idade, codigo:inteiro
 
-
 Inicio
       prod1<-"Computador"
       prod2<- "Tv"
@@ -16,8 +15,8 @@ Inicio
       genero<-"F"
       escreval("Produtos:")
       escreval("O produto " , prod1 , " custa R$" , preco1)
-      escreval("O produto " , prod2 , (" custa R$") , preco2)
-      escreval("Código: " , codigo)
-      escreva("Dados da pessoa: gênero " , genero , " e idade" , idade)
+      escreval("O produto " , prod2 , " custa R$" , preco2)
+      escreval("CÃ³digo: " , codigo)
+      escreva("Dados da pessoa: gÃªnero " , genero , " e idade" , idade)
       
 Fimalgoritmo
